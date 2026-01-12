@@ -27,7 +27,7 @@ const PROFILE = {
   email: "jetang600@outlook.com",
   linkedin: "https://www.linkedin.com/in/jerrytangindiana/",
   github: "https://github.com/jetang600",
-  resumeUrl: "/pdfs/resume.pdf", // upload to a public link and paste here
+  resumeUrl: "pdfs/resume.pdf", // upload to a public link and paste here
   about:
     "I build data driven tools and security programs that make messy operations feel simple. Recent work includes an LLM powered team recommendation app (Python, Flask, SQLite) and an end to end GRC runbook set for a small EdTech SaaS aligned to NIST CSF. I like projects where I can translate business needs into clean workflows, dashboards, and controls.",
   skills: [
@@ -118,7 +118,7 @@ const PROJECTS = [
       "Proposed governance and data ownership model to support scaled analytics",
       "Built prioritization framework to sequence initiatives by value and feasibility",
     ],
-    links: [{ label: "PDF Brief", url: "/pdfs/tmhna.pdf" }],
+    links: [{ label: "PDF Brief", url: "pdfs/tmhna.pdf" }],
   },
 ];
 
